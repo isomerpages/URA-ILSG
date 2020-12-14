@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: i Light Singapore
+description: Asia's leading sustainable light festival
 image: /images/isomer-logo.svg
 permalink: /
 notification: In response to the COVID-19 situation, i Light Singapore 2020 has been cancelled.
@@ -12,11 +12,5 @@ sections:
         background: /images/HeroBanner-min.gif
         button: Find out more
         url: https://www.instagram.com/ilightsingapore/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
 ---
 
