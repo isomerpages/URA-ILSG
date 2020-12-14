@@ -6,9 +6,9 @@ permalink: /
 notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
-        background: /images/banner.png
+        title: i Light Singapore
+        subtitle: Asia’s leading sustainable light festival
+        background: /images/HeroBanner-min.gif
         url: /contact-us/
         button: Contact
         key_highlights:
