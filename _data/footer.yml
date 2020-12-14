@@ -1,10 +1,8 @@
 contact_us: /contact-us/
 show_reach: true
 feedback: 
-faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
+    facebook: https://www.facebook.com/ilightsingapore
+    instagram: https://www.instagram.com/ilightsingapore/
     youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+
