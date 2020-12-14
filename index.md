@@ -7,30 +7,16 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+        title: **i Light Singapore**
+        subtitle: **Asia’s leading sustainable light festival** <br> Our main website is under construction and we should be back soon, together with details on the next edition of the festival. Stay tuned!<br>
+        background: /HeroBanner-min.gif
+        button: Find out more
+        url: https://www.instagram.com/ilightsingapore/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
 ---
 
