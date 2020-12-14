@@ -1,15 +1,15 @@
 ---
 layout: homepage
-title: Ministry of ABC
-description: The Ministry of ABC is the ministry in charge of XYZ
+title: i Light Singapore
+description: Asia’s leading sustainable light festival
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: In response to the COVID-19 situation, i Light Singapore 2020 has been cancelled.
 sections:
     - hero:
         title: i Light Singapore
-        subtitle: Asia’s leading sustainable light festival
+        subtitle: Asia’s leading sustainable light festival in Marina Bay
         <br>Our main website is under construction and we should be back soon, together with details on the next edition of the festival. Stay tuned!<br>
-        background: /images/HeroBanner-min.gif
+        background: /images/iLSGHerobanner.jpg
         url: /contact-us/
         button: Contact
         key_highlights:
