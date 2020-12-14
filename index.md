@@ -12,6 +12,5 @@ sections:
     background: /images/HeroBanner-min.gif
     url: https://www.instagram.com/ilightsingapore/
     button: Find out more
-
 ---
 
