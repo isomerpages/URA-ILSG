@@ -8,6 +8,7 @@ sections:
     - hero:
         title: i Light Singapore
         subtitle: Asia’s leading sustainable light festival
+        <br>Our main website is under construction and we should be back soon, together with details on the next edition of the festival. Stay tuned!<br>
         background: /images/HeroBanner-min.gif
         url: /contact-us/
         button: Contact
