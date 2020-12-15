@@ -3,7 +3,7 @@ title: About
 permalink: /about
 ---
 
-<div style="width:1920px"><img src="/images/ilsgaboutbanner.jpg" alt="i Light Singapore" /></div>
+<div style="width:1920px"><img src="/images/iLSGHEROBANNER(F).jpg" alt="i Light Singapore" /></div>
 
 **The Festival**
 
