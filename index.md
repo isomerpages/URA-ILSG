@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: i Light Singapore
-description: i Light Singapore is Asia’s leading sustainable light festival
+description: i Light Singapore is Asia’s Leading Sustainable Light Festival
 permalink: /
 notification: In response to the COVID-19 situation, i Light Singapore 2020 has been cancelled.
 sections:
