@@ -8,7 +8,9 @@ sections:
     - hero:
         title: **i Light Singapore**
         subtitle: **i Light Singapore is Asia’s leading sustainable light festival in Marina Bay**
+        <br>
         <br>Our main website is under construction and we should be back soon, together with details on the next edition of the festival. Stay tuned!<br>
+        <br>
         background: /images/iLSGHEROBANNER(F).jpg
         url: https://www.instagram.com/ilightsingapore/
         button: Find Out More 
