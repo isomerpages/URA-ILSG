@@ -13,5 +13,13 @@ sections:
         <br>
         background: /images/iLSGHEROBANNER(F).jpg
         url: https://www.instagram.com/ilightsingapore/
-        button: Find Out More 
+        button: Find Out More
+    - infopic:
+        title: Professionalism
+        subtitle: Core Values
+        description: We strive to deliver work of the highest calibre
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
+        alt: Members of the Ministry of ABC in suits
 ---
