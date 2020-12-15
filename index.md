@@ -10,5 +10,5 @@ sections:
         subtitle: i Light Singapore is Asia’s leading sustainable light festival
         background: /images/iLSGHEROBANNER(F).jpg
         url: /contact-us/
-        button: Contact
+        button: Find Out More 
 ---
