@@ -15,11 +15,8 @@ sections:
         url: https://www.instagram.com/ilightsingapore/
         button: Find Out More
     - infopic:
-        title: Professionalism
+        title: Acknowledgements
         subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
         image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
+        alt: ilightsingaporeacknowledgements
 ---
