@@ -14,9 +14,4 @@ sections:
         background: /images/iLSGHEROBANNER(F).jpg
         url: https://www.instagram.com/ilightsingapore/
         button: Find Out More
-    - infopic:
-        title: Acknowledgements
-        subtitle: Core Values
-        image: /images/professionalism.png
-        alt: ilightsingaporeacknowledgements
 ---
