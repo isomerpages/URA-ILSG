@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 ---
 
-### **Government Agency Privacy Statement**
+### **Privacy Statement**
 
 1)This is a Government Agency website.
 
