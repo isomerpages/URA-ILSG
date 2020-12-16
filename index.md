@@ -14,5 +14,5 @@ sections:
     - infopic:
         title: Acknowledgements
         image: /images/acklogo.png
-        alt: Members of the Ministry of ABC in suits
+        alt: ilightsingapore
 ---
