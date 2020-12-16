@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-**Terms of Use** 
+**Terms of Use**
 
 1) ACCEPTANCE OF TERMS
 
@@ -42,7 +42,7 @@ you will not include any content in your Submissions that is or could be unlawfu
 5.4)       If you submit or provide any personally identifiable information through the Site, you acknowledge and consent to URA collecting and using such information for various purposes, including without limitation, verification and record of your personal particulars, comparing it with information from other sources, to communicate with you and/or to send you information and promotional material about URA or third party organisations selected by us.
 For the above purposes by third parties (who may be based outside Singapore) who offer goods and services or sponsor contests or other promotional programs on our site, whether in conjunction with us or not, if you purchase such goods, use such services or participate in such contests and promotional programs.
  
- 6) INDEMNITIES
+6) INDEMNITIES
 
 6.1)       You agree to defend and hold URA, its affiliates and related corporations from and against all claims, losses, damages, costs and expenses, including legal fees on an indemnity basis, arising out of your use of the Site or any breach of these terms. In addition, URA may use whatever information that is available about you to stop any such breach or any unlawful or inappropriate use of the Site, including informing any third party URA deem appropriate of such breach or use and/or disclosing your personal information to such third party.
  
