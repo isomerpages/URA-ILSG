@@ -6,5 +6,5 @@ agency_name: 'us'
 contacts:
   - title:
     content:
-    - other: For more enquiries,<br>drop i Light Singapore an email at info@ilight.sg   
+    - other: For more enquiries,<br>drop i Light Singapore an email at info@ilight.sg<br>  
 ---
