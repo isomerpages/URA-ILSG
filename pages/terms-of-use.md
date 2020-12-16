@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-**Terms of Use 
+**Terms of Use** 
 
 1) ACCEPTANCE OF TERMS
 
