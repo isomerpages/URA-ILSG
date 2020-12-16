@@ -6,5 +6,5 @@ agency_name: '#iLightSingapore'
 contacts:
   - title:
     content:
-  - other: For more enquiries,<br>drop us an email at info@ilight.sg   
+    - other: For more enquiries,<br>drop us an email at info@ilight.sg   
 ---
