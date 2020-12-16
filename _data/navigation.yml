@@ -1,7 +1,7 @@
 logo: /images/iLSGLogo.png
 
 links:
-  - title: 'iLightSingapore'
+  - title: About
     url: /about/
   - title: News
     resource_room: true
