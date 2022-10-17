@@ -1,3 +1,8 @@
+title	permalink
+
+
+i Light Singapore 2023 Open Call
+
 The sustainable light festival will return for its 9th edition to showcase new and exciting light art installations at Marina Bay.
 
 For this edition, we continue to invite artists to explore various forms of Sustainability and Sustainable Living - of environment, economy and culture - and examine how light art can create conversations about our lifestyles, decision making and the community.
