@@ -13,6 +13,6 @@ i Light Singapore, Asia’s leading sustainable light festival, will return for 
 
 **A New Wave** encourages creative methods and ideas that reflect the energy of blue to inspire connections in the city, refresh people’s senses and immerse visitors in new realms. 
 
-For further information, download the Student Call document <a href="[https://www.ilightsingapore.gov.sg/-/media/iLSG2023Image/i-Light-Singapore-2023---Student-Call.pdf)" target="_blank"> here </a> 
+For further information, download the Student Call documents <a href="https://www.ilightsingapore.gov.sg/-/media/iLSG2023Image/i-Light-Singapore-2023---Student-Call.pdf" target="_blank"> here </a> 
 
 Fill in the Student Call application form <a href="https://forms.gle/hBJQzkZcUFgKEBnD6" target="_blank"> here </a> and submit by 13 November 2022, 2359hr GMT+8.
