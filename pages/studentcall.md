@@ -1,5 +1,5 @@
 ---
-title: Open Call
+title: Student Call
 permalink: /StudentCall
 ---
 
