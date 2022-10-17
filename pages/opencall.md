@@ -1,7 +1,11 @@
-title	permalink
+---
+title: Open Call
+permalink: /Open Call
+---
 
+<div style="width:800px"><img src="/images/iLSGOpenCall.jpg" alt="i Light Singapore Open Call" /></div>
 
-i Light Singapore 2023 Open Call
+### **i Light Singapore 2023 Open Call**
 
 The sustainable light festival will return for its 9th edition to showcase new and exciting light art installations at Marina Bay.
 
