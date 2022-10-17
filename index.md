@@ -10,7 +10,7 @@ sections:
         subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
         background: /images/iLSGHEROBANNER(F).jpg
         url: "https://www.instagram.com/ilightsingapore/"
-        button: Find Out More
+        button: Follow Us
     - infopic:
         title: Acknowledgements
         image: /images/acklogo.png
