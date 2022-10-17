@@ -17,4 +17,4 @@ The curatorial theme of i Light Singapore 2023, **A New Wave**, calls for innova
 
 For further information, download the Open Call documents [here]("https://www.ilightsingapore.gov.sg/-/media/iLSG2023Image/i-Light-Singapore-2023---Open-Call.pdf)
 
-Fill in the Open Call application form [here]("https://forms.gle/XKDSqi3wo1KNoKGq9) and submit by 13 November 2022, 2359hr GMT+8.
+Fill in the Open Call application form [here] <a href=""https://forms.gle/XKDSqi3wo1KNoKGq9" target="_blank"> and submit by 13 November 2022, 2359hr GMT+8.
