@@ -8,7 +8,7 @@ sections:
     - hero:
         title: i Light Singapore
         subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
-        background: /images/iLSGHEROBANNER(F).jpg
+        background: /images/iLightsg_Lockup(F)-240220-04.png
         url: "https://www.instagram.com/ilightsingapore/"
         button: FOLLOW US
     - infopic:
