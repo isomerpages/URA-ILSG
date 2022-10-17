@@ -1,6 +1,6 @@
 ---
 title: Open Call
-permalink: /Open Call
+permalink: /OpenCall
 ---
 
 <div style="width:800px"><img src="/images/iLSGOpenCall.jpg" alt="i Light Singapore Open Call" /></div>
