@@ -1,7 +1,9 @@
-logo: /images/iLSGLogo.png
+logo: /images/iLightsg_Lockup(F)-240220-04.png
 
 links:
   - title: About
     url: /about/
-  - title: News
-    url: /news/
+  - title: Open Call
+    url: /OpenCall/
+  - title: Student Call
+    url: /StudentCall/
