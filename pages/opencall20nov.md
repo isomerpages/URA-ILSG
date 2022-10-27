@@ -3,7 +3,7 @@ title: Open Call
 permalink: /OpenCall
 ---
 
-<div style="width:800px"><img src="/images/iLSGOpenCall.jpg" alt="i Light Singapore Open Call" /></div>
+<div style="width:800px"><img src="/images/iLSGExtended-800x400.jpg" alt="i Light Singapore Open Call" /></div>
 
 ### **i Light Singapore 2023 Open Call**
 
