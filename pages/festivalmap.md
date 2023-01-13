@@ -19,7 +19,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
 </script>
 
-<script src=https://www.google.com/maps/d/embed?mid=1iocybSAgqXITlJxyuPm-Vo-BxEwqcVc&ehbc=2E312F></script>
+<iframe src="https://www.google.com/maps/d/embed?mid=1iocybSAgqXITlJxyuPm-Vo-BxEwqcVc&ehbc=2E312F" width="640" height="480"></iframe>
 
 </body>
 </html>
