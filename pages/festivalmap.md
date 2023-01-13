@@ -8,7 +8,7 @@ permalink: /festivalmap
 
 <h1>Festival Map</h1>
 
-<div id="googleMap" style="width:400%;height:800px;"></div>
+<div id="googleMap" style="width:100%;height:400px;"></div>
 <script>
 function myMap() {
 var mapProp= {
