@@ -1,3 +1,7 @@
+---
+title: Festival Map
+permalink: /festivalmap
+---
 <!DOCTYPE html>
 <html>
 <body>
