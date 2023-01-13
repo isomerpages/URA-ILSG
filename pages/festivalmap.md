@@ -4,7 +4,6 @@ permalink: /festivalmap
 ---
 <html>
 <body>
-<h1>Festival Map</h1>
-<iframe src="https://www.google.com/maps/d/embed?mid=1iocybSAgqXITlJxyuPm-Vo-BxEwqcVc&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1iocybSAgqXITlJxyuPm-Vo-BxEwqcVc&ehbc=2E312F" width="640" height="380"></iframe>
 </body>
 </html>
