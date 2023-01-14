@@ -2,4 +2,4 @@
 title: sus
 permalink: /sus
 ---
-<iframe width=100% height="400" seamless frameborder="0'src=”https://www.ilightsingapore.gov.sg/SUSTAINABILITY/PLEDGE”></iframe>
+<iframe src=”https://www.ilightsingapore.gov.sg/SUSTAINABILITY/PLEDGE” width=”90%” height=”400″ name=”iframe” title=”This is my video”></iframe>
