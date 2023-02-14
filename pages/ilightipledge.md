@@ -1,6 +1,6 @@
 ---
 title: ilightipledge
-permalink: /ilightipledge
+permalink: /ilightipledge/
 ---
 
 ```html
