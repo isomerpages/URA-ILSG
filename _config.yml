@@ -4,7 +4,7 @@ favicon: /images/iLSGfavicon.ico
 
 # Site colors
 colors:
-  primary-color: '#2e2b2e'
+  primary-color: '#00000'
   secondary-color: '#2e2b2e'
   media-colors:
     - title: media-color-one
