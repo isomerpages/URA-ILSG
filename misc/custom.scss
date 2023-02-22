@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Website brand colors
-$primary: #5099C3;
-$secondary: #0E4D80;
+$primary: #0E4D80;
+$secondary: #5099C3;
 $secondary-hover: darken(#0E4D80, 20%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -315,7 +315,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .image-card:hover {
   .news-content {
-    background-color: darken(#ffffff, 10%);
+    background-color: darken(#5099C3, 10%);
   }
 }
 
