@@ -1,9 +1,9 @@
 ---
-title: Open Call-13nov
-permalink: /OpenCall-13nov
+title: Open Call
+permalink: /OpenCall
 ---
 
-<div style="width:800px"><img src="/images/iLSGOpenCall.jpg" alt="i Light Singapore Open Call" /></div>
+<div style="width:800px"><img src="/images/iLSGExtended-800x400.jpg" alt="i Light Singapore Open Call" /></div>
 
 ### **i Light Singapore 2023 Open Call**
 
@@ -17,4 +17,4 @@ The curatorial theme of i Light Singapore 2023, **A New Wave**, calls for innova
 
 For further information, download the Open Call documents <a href="https://www.ilightsingapore.gov.sg/-/media/iLSG2023Image/i-Light-Singapore-2023---Open-Call.pdf" target="_blank"> here </a> 
 
-Fill in the Open Call application form <a href="https://forms.gle/XKDSqi3wo1KNoKGq9" target="_blank"> here </a> and submit by 13 November 2022, 2359hr GMT+8.
+Fill in the Open Call application form <a href="https://forms.gle/XKDSqi3wo1KNoKGq9" target="_blank"> here </a> and submit by 20 November 2022, 2359hr GMT+8.
